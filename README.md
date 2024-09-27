@@ -7,12 +7,7 @@ Welcome to the **Live Code Editor**, a full-fledged real-time code editor inspir
 </p>
 
 ## 📽️ Project Demo
-
-Watch the project in action here:
-
-https://user-images.githubusercontent.com/64205626/177022732-d633f91a-ae5f-4afc-b002-e30d4023ce2c.mp4
-
----
+[Live](https://leetcode-ide.vercel.app/)
 
 ## 🚀 Features
 
@@ -58,7 +53,7 @@ The initial version of the project was built with:
 In this version, I've integrated **Judge0 API** via **RapidAPI** for remote code compilation and execution, supporting multiple languages. 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/64205626/182112312-18be0413-a8ef-4f99-a676-8f8bd27f4fc2.mp4" width="600"/>
+  https://user-images.githubusercontent.com/64205626/182112312-18be0413-a8ef-4f99-a676-8f8bd27f4fc2.mp4
 </p>
 
 ---
@@ -120,15 +115,6 @@ Follow these steps to run the project on your local machine:
 ## 🤝 Contribution
 
 Feel free to fork this repository, raise issues, or suggest new features by submitting a PR.
-
----
-
-## 📫 Contact
-
-Have questions or suggestions? Feel free to reach out!
-
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-linkedin)
-- GitHub: [Your GitHub](https://github.com/your-username)
 
 ---
 
