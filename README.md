@@ -75,7 +75,7 @@ Follow these steps to run the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/leetcode-ide.git
+   git clone https://github.com/gouravpandey009/leetcode-ide.git
    cd leetcode-ide
    ```
 
