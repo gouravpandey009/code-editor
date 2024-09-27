@@ -52,10 +52,6 @@ The initial version of the project was built with:
 
 In this version, I've integrated **Judge0 API** via **RapidAPI** for remote code compilation and execution, supporting multiple languages. 
 
-<p align="center">
-  https://user-images.githubusercontent.com/64205626/182112312-18be0413-a8ef-4f99-a676-8f8bd27f4fc2.mp4
-</p>
-
 ---
 
 ## 🛠️ Future Enhancements & To-Do List
